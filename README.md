@@ -47,3 +47,5 @@ This workshop is broken up into following modules:
 3. Delete S3 buckets created by Media Analysis Solution.
 
   ![CloudFormation Stack Delete](./2-ContentModeration/assets/mas-s3-delete.png)
+
+This was fun!
